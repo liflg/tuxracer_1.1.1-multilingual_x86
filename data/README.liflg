@@ -1,0 +1,38 @@
+
+	   Tux Racer: multilingual version 1.1.1
+	     (http://tuxracer.com/ (dead) )
+
+========================================
+
+ABOUT
+=====
+
+	This is an updated installer for the Linuxversion of Tux Racer.
+	It contains the most recent patch.
+	
+SYSTEM REQUIREMENTS
+===============
+
+	- The Tux Racer disc
+
+RUNNING THE GAME
+=============
+
+	Run "tuxracer.sh" to play.
+
+NOTES
+====
+
+	- There are better open source alternatives available.
+	  Have a look at http://www.extremetuxracer.com/
+
+	- Some libraries are taken from Debian
+	  (http://www.debian.org/)
+
+TECHNICAL SUPPORT
+=============
+
+	Website: http://liflg.org/
+	Forum:   http://liflg.org/forum/
+
+The Linux Installers for Linux Gamers Team
